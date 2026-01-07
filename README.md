@@ -1,7 +1,7 @@
 # 🤔 About me:
 I am a Software Engineer. I have been coding since high school, on and off.<br>
 My main system engineering and code collaboration experience derives from 42 School.<br>
-I've tried a lot of fields from Game Development to ML but as of now I feel passionate about software architecture and applying engineering methods the most.<br>
+I've tried a lot of fields from Game Development to ML pipeline but as of now I feel passionate about software architecture and applying engineering methods the most.<br>
 
 ## 🌐 Social:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/randosainas)
